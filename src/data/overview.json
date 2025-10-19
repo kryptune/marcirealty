@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "Top Residential Sales Last 5 Years",
+    "desc": "We helped nearly 90 clients in 2021, and closed 28.5 million in sales!   Our team works hard everyday to grow and learn, so that we may continue to   excel in our market.  Our clients deserve our best, & we want to make sure our   best is better every year.",
+    "img": "/overview/prop1.webp"
+  },
+  {
+    "id": "2",
+    "title": "Don't Just List it...",
+    "desc": "Get it SOLD! We exhaust every avenue to ensure our listings are at the   fingertips of every possible buyer, getting you top dollar for your home.",
+    "img": "/overview/prop2.webp"
+  },
+  {
+    "id": "3",
+    "title": "Guide to Buyers",
+    "desc": "Nobody knows the market like we do. Enjoy having a pro at your service.   Market analysis, upgrades lists, contractors on speed dial, & more!",
+    "img": "/overview/prop3.webp"
+  }
+]

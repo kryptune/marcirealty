@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ridge",
+    "badge": "ridge",
+    "img": "/logo/realty/ridge1.webp"
+  },
+  {
+    "id": "equalhouse",
+    "badge": "Equal House Opportunity",
+    "img": "/logo/realty/equal-house.webp"
+  },
+  {
+    "id": "realtor",
+    "badge": "Realtor",
+    "img": "/logo/realty/realtor.webp"
+  },
+  {
+    "id": "pahrump",
+    "badge": "Pahrump",
+    "img": "/logo/realty/pahrump-valley.webp"
+  }
+]

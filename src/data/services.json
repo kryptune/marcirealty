@@ -1,0 +1,26 @@
+[
+  {
+    "id": "service0",
+    "title": "Real Estate",
+    "desc": "Buy, sell, or invest with confidence. We guide you every step of the way to ensure a smooth and stress-free experience.",
+    "Oneline": "Your journey made simple",
+    "img": "/services/image_services1.webp",
+    "alt": "Real Estate Done Right image"
+  },
+  {
+    "id": "service1",
+    "title": "Commercial & Residential",
+    "desc": "From condos to luxury estates, we know the market and the community—helping you make smart, value-driven decision",
+    "Oneline": "Where lifestyle meets value",
+    "img": "/services/image_services2.webp",
+    "alt:": "Commercial & Residential"
+  },
+  {
+    "id": "service2",
+    "title": "Premium Consultation",
+    "desc": "We connect you with trusted professionals for loans, affordability, and credit options—so you’re informed and empowered from start to finish.",
+    "Oneline": "Trusted guidance, confident decisions",
+    "img": "/services/image_services3.webp",
+    "alt": "Rely on Expertise"
+  }
+]
