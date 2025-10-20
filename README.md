@@ -18,6 +18,15 @@ Here're some of the project's best features:
 *   \*\*Embedded Google Map Integration\*\* – Interactive map displaying the exact location with zoom and navigation support.
 
 
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React
+*   Tailwind
+*   Swiper
+
+
 <h2>🛠️ Installation Steps:</h2>
 
     1. Clone repository git clone https://github.com/yourusername/realtyworks.git cd realtyworks     
@@ -34,12 +43,7 @@ Here're some of the project's best features:
 
     5. Preview production build npx serve dist
 
-  
-  
-<h2>💻 Built with</h2>
 
-Technologies used in the project:
+## Contact
 
-*   React
-*   Tailwind
-*   Swiper
+If you'd like to get in touch, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rolando-de-la-torre-030387358/) or email me at rolandodelatorre13@gmail.com
