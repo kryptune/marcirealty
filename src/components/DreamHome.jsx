@@ -67,7 +67,7 @@ export default function DreamHome() {
           </div>
           <div className="flex flex-col w-full md:w-1/3 gap-9">
             <FormSelect label="Sort By" options={sortBy} name="sortBy" />
-            <button className="w-full md:h-1/3 h-[5vh] rounded-full bg-gray-900 hover:bg-blue-500 hover:scale-105">
+            <button className="w-full md:h-1/3 h-[5vh] rounded-full bg-gray-900 hover:bg-blue-500 hover:scale-105 transition-all transition ease-in-out duration-300">
               SEARCH NOW
             </button>
           </div>

@@ -14,7 +14,7 @@ export default function Call() {
           <FloatingInput label="Email*" name="email" />
           <FloatingTextArea label="Message" name="message" />
           <div className="flex flex-col items-center md:mt-4">
-            <button className="rounded-full w-1/3 md:w-1/4 bg-gray-500 p-2 md:p-4 mb-6 font-sanspro font-bold hover:bg-blue-500 hover:scale-105 hover:bg">
+            <button className="rounded-full w-1/3 md:w-1/4 bg-gray-500 p-2 md:p-4 mb-6 font-sanspro font-bold hover:bg-blue-500 hover:scale-105 hover:bg transition-all transition ease-in-out duration-300">
               SEND
             </button>
             <p className="text-xs text-white text-center">

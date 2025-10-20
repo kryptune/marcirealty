@@ -20,7 +20,7 @@ export default function Home() {
           MARCI METZGER - THE RIDGE REALTY GROUP
         </h2>
         <h1 className="text-6xl font-cinzel">PAHRUMP REALTOR</h1>
-        <button className="bg-white text-black px-4 py-4 rounded-full w-40 md:mb-8 mb-16 font-bold">
+        <button className="bg-white text-black p-4 rounded-full w-40 md:mb-12 mb-16 font-bold hover:bg-blue-500 hover:scale-105 hover:text-white transition-all transition ease-in-out duration-300">
           CALL NOW
         </button>
       </div>

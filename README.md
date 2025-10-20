@@ -25,6 +25,8 @@ Technologies used in the project:
 *   React
 *   Tailwind
 *   Swiper
+*   Framer-motion
+
 
 
 <h2>🛠️ Installation Steps:</h2>
