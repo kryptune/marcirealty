@@ -37,7 +37,7 @@ export default function DreamHome() {
       </h1>
       <form
         action="submit"
-        className="z-10 bg-white flex flex-col text-start md:p-12 p-8 rounded-xl"
+        className="z-10 bg-white flex flex-col text-start md:p-12 p-6 rounded-xl"
       >
         <h1 className="font-cinzel text-xl md:text-3xl z-10 text-black ">
           SEARCH LISTINGS

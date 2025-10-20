@@ -1,7 +1,7 @@
 export default function Location() {
   return (
-    <div className="bg-white p-8 md:p-16">
-      <h1 className="flex font-cinzel md:text-4xl text-3xl text-black justify-center mb-12">
+    <div className="bg-white mb-8 p-8 md:p-16">
+      <h1 className="flex font-cinzel md:text-4xl text-3xl text-black justify-center mb-8 md:mb-12">
         OUR LOCATION
       </h1>
       <iframe

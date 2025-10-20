@@ -7,7 +7,7 @@ export default function Header({ setShowSidebar }) {
   return (
     <header className="flex p-4 md:px-24 md:p-6 bg-white items-center justify-center relative">
       <RxHamburgerMenu
-        className="absolute right-2/3 md:right-[80%] text-2xl text-black ml-12 mr-24 cursor-pointer hover:text-blue-500 transition duration-200"
+        className="absolute right-[60%] md:right-[80%] text-2xl text-black ml-12 mr-24 cursor-pointer hover:text-blue-500 transition duration-200"
         onClick={handleClick}
       />
       <img

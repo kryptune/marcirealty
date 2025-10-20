@@ -18,7 +18,10 @@ export default function Services() {
     </div>
   ));
   return (
-    <div id="services" className="flex  flex-col text-center bg-white p-16 ">
+    <div
+      id="services"
+      className="flex  flex-col text-center bg-white p-8 md:p-16 "
+    >
       <h1 className="font-cinzel text-4xl text-black mb-8">OUR SERVICES</h1>
       <div className="flex flex-col md:flex-row justify-center items-center gap-6 h-[60%]">
         {servicesElement}

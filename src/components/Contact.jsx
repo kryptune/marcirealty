@@ -23,7 +23,7 @@ export default function Call() {
             </p>
           </div>
         </div>
-        <div className="flex flex-col text-center md:text-start mt-4 md:mt-0 p-10 px-16 font-sanspro text-white gap-2 w-full md:w-1/2">
+        <div className="flex flex-col text-center md:text-start mt-4 md:mt-0 p-10 px-12 md:px-16 font-sanspro text-white gap-2 w-full md:w-1/2">
           <h1 className="font-cinzel text-3xl mb-4">MARCI METZGER</h1>
           <div className="flex flex-col pl-3 gap-2">
             <h2>THE RIDGE REALTY GROUP</h2>
