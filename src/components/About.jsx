@@ -94,14 +94,14 @@ export default function About() {
         transition={{ delay: 1, duration: 0.8 }}
         className="flex gap-6 mt-12"
       >
-        <button className="font-sanspro md:px-6 px-3 py-3 bg-white text-black rounded-xl hover:bg-[#111111] hover:text-white transition ease-out duration-300 border border-white">
+        <button className="font-sanspro md:px-6 px-3 py-3 bg-white text-black rounded-xl hover:bg-blue-500 hover:scale-105 hover:text-white transition-all transition ease-in-out duration-300 border border-white">
           View Listings
         </button>
         <a
           href="https://wa.me/14259412560"
           target="_blank"
           rel="noopener noreferrer"
-          className="font-sanspro md:px-6 px-3 py-3 border border-white text-white rounded-xl hover:bg-white hover:text-black transition ease-out duration-300"
+          className="font-sanspro md:px-6 px-3 py-3 border border-white text-white rounded-xl  hover:bg-blue-500 hover:scale-105 hover:text-white transition-all transition ease-in-out duration-300"
         >
           Contact Me
         </a>

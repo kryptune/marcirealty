@@ -25,7 +25,7 @@ export default function Services() {
       <h1 className="font-cinzel text-4xl text-black my-6 md:mb-12 ">
         OUR SERVICES
       </h1>
-      <div className="flex flex-col md:flex-row justify-center items-center gap-6 h-[60%]">
+      <div className="flex flex-col md:flex-row justify-center items-center gap-6 h-[60%] mb-8">
         {servicesElement}
       </div>
     </div>

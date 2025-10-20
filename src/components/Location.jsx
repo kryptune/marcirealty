@@ -12,7 +12,7 @@ export default function Location() {
         allowFullScreen
         loading="lazy"
         referrerPolicy="no-referrer-when-downgrade"
-        className="w-full md:h-[500px] h-[400px]"
+        className="w-full md:h-[500px] h-[400px] mb-8"
       ></iframe>
     </div>
   );
