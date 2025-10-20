@@ -13,7 +13,7 @@ export default function Footer() {
     </a>
   ));
   return (
-    <div className="flex flex-col justify-center items-center p-4 md:p-12">
+    <div className="flex flex-col justify-center items-center p-8 md:p-12">
       <div className="flex text-white gap-8 justify-center items-center my-2 md:my-6 ">
         {contactElements}
       </div>

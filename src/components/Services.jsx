@@ -3,7 +3,7 @@ export default function Services() {
   const servicesElement = services.map((service) => (
     <div
       key={service.id}
-      className="flex flex-col text-center justify-center items-center rounded-xl w-full md:w-1/3 h-full p-6 text-black font-sanspro border-black-900 border-2 shadow-xl hover:shadow-3xl hover:scale-105 transition-shadow duration-300 cursor-pointer"
+      className="flex flex-col text-center justify-center items-center rounded-xl w-full md:w-1/3 h-full p-6 text-black font-sanspro border-black-900 border-2 shadow-xl hover:shadow-3xl hover:scale-105 transition-all transition ease-in-out duration-500 cursor-pointer"
     >
       <h1 className="mb-6 text-2xl border-b-2 border-gray-300">
         {service.title}

@@ -8,7 +8,7 @@ export default function FormInput({
   error,
 }) {
   return (
-    <div className="flex flex-col mb-4">
+    <div className="flex flex-col mb-4 font-sanspro">
       {label && (
         <label
           htmlFor={name}
@@ -25,7 +25,7 @@ export default function FormInput({
         value={value}
         onChange={onChange}
         className="w-full rounded-lg border border-gray-300 p-3 text-gray-900 placeholder-gray-400
-                   focus:outline-none focus:border-gray-400 focus:ring-1 focus:ring-gray-300 transition h-10"
+                   focus:outline-none focus:border-gray-400 focus:ring-1 focus:ring-gray-300 transition h-10 bg-white"
       />
       {error && <span className="text-xs text-red-500 mt-1">{error}</span>}
     </div>

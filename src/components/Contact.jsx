@@ -10,11 +10,11 @@ export default function Call() {
       <div className="flex flex-col md:flex-row">
         <div className="flex flex-col text-start  font-sanspro text-white w-full md:w-1/2 gap-6 p-4 md:p-8 border-b-2 border-gray-500">
           <h2 className="md:text-2xl text-lg mb-2">Send Message</h2>
-          <FloatingInput label="Name:" name="name" />
-          <FloatingInput label="Email*:" name="email" />
+          <FloatingInput label="Name*" name="name" />
+          <FloatingInput label="Email*" name="email" />
           <FloatingTextArea label="Message" name="message" />
           <div className="flex flex-col items-center md:mt-4">
-            <button className="rounded-full w-1/3 md:w-1/4 bg-gray-500 p-2 md:p-4 mb-6 font-sanspro font-bold">
+            <button className="rounded-full w-1/3 md:w-1/4 bg-gray-500 p-2 md:p-4 mb-6 font-sanspro font-bold hover:bg-blue-400 hover:scale-105 hover:bg">
               SEND
             </button>
             <p className="text-xs text-white text-center">
@@ -45,7 +45,7 @@ export default function Call() {
               rel="noopener noreferrer"
               className=" bg-gray-500 text-[#faf9f6] text-sm font-bold font-sanspro 
              md:py-4 md:px-8 py-2 px-4  rounded-full mt-8 shadow-md transition-all transform 
-             duration-300 hover:scale-105 hover:shadow-lg hover:bg-[#677987] hover:text-[#faf9f6] gap-2 inline-flex items-center w-fit"
+             duration-300 hover:scale-105 hover:shadow-lg hover:bg-blue-400 hover:text-[#faf9f6] gap-2 inline-flex items-center w-fit"
             >
               <span>
                 <img src="contacts/whatsapp.svg" alt="whatsapp" />

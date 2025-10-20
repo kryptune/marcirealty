@@ -1,6 +1,6 @@
 export default function FloatingTextArea({ label, name, type = "text" }) {
   return (
-    <div className="relative w-full">
+    <div className="relative w-full font-sanspro">
       <textarea
         type={type}
         name={name}
