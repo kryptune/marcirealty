@@ -25,12 +25,12 @@ export default function Sidebar({ setShowSidebar }) {
     <a
       key={link.id}
       onClick={() => handleScrollToSection(link.id)}
-      className="flex pl-6 md:pl-10 cursor-pointer hover:text-blue-500"
+      className="flex pl-6 md:pl-10 cursor-pointer hover:text-blue-500 items-center"
     >
       <span>
-        <i className={`${link.icon} mr-4`}></i>
+        <i className={`${link.icon} text-sm md:text-base mr-4 w-[16px] `}></i>
       </span>
-      <h1 className="font-sanspro text-base md:text-lg  pr-6 ">{link.title}</h1>
+      <h1 className="font-sanspro text-sm md:text-lg  pr-6 ">{link.title}</h1>
     </a>
   ));
   const handleClick = () => {
