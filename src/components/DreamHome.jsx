@@ -32,7 +32,7 @@ export default function DreamHome() {
       className="bg-[url('/assets/section-banner.webp')] bg-cover bg-center h-auto flex flex-col text-center p-8 md:p-24 relative"
     >
       <div className="absolute inset-0 bg-black opacity-25"></div>
-      <h1 className="font-cinzel text-4xl z-10 md:mb-20 mb-12 mt-4">
+      <h1 className="font-cinzel text-4xl z-10 md:mb-20 mb-12 mt-6 md:mt-0">
         FIND YOUR DREAM HOME
       </h1>
       <form
