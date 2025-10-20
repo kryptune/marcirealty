@@ -32,7 +32,7 @@ export default function PhotoGallery() {
       <h1 className="font-cinzel text-white text-3xl md:text-4xl mb-12">
         PHOTO GALLERY
       </h1>
-      <div class="border-[12px] border-[#d4c2a5] rounded-md shadow-[0_0_20px_rgba(0,0,0,0.3)] bg-[#f9f4e7] p-4 mb-12">
+      <div class="md:border-[12px] border-[8px] border-[#d4c2a5] rounded-md shadow-[0_0_20px_rgba(0,0,0,0.3)] bg-[#f9f4e7] p-2 md:p-4 mb-12">
         <Swiper
           modules={[FreeMode, Navigation, Thumbs, Autoplay, Pagination]}
           navigation

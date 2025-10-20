@@ -4,7 +4,7 @@ import FloatingTextArea from "./forms/FloatingTextArea";
 export default function Call() {
   return (
     <div id="contact" className="text-center p-8 md:p-16">
-      <h1 className="md:text-4xl text-3xl font-cinzel text-white mb-12 mt-4">
+      <h1 className="md:text-4xl text-3xl font-cinzel text-white mb-6 md:mb-12 mt-6">
         CALL OR VISIT
       </h1>
       <div className="flex flex-col md:flex-row">
@@ -44,7 +44,7 @@ export default function Call() {
               target="_blank"
               rel="noopener noreferrer"
               className=" bg-gray-500 text-[#faf9f6] font-bold font-sanspro 
-             py-4 px-8 rounded-full mt-8 shadow-md transition-all transform 
+             md:py-4 md:px-8 p-3 rounded-full mt-8 shadow-md transition-all transform 
              duration-300 hover:scale-105 hover:shadow-lg hover:bg-[#677987] hover:text-[#faf9f6] gap-3 inline-flex items-center w-fit"
             >
               <span>
