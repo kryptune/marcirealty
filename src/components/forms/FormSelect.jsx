@@ -20,7 +20,7 @@ export default function FormSelect({
         name={name}
         defaultValue=""
         className="w-full rounded-lg border border-gray-300 text-gray-900
-                   focus:outline-none focus:border-gray-400 focus:ring-1 focus:ring-gray-300 transition h-10 py-2 bg-white"
+                   focus:outline-none focus:border-gray-400 focus:ring-1 focus:ring-gray-300 transition h-10 p-2 bg-white"
       >
         <option value="">{`Select ${label}`}</option>
         {options.map((option, idx) => (
