@@ -6,7 +6,7 @@ export default function FloatingTextArea({ label, name, type = "text" }) {
         name={name}
         id={name}
         placeholder=" "
-        className="peer w-full border border-white px-4 pt-6 pb-2 text-white bg-transparent 
+        className="peer w-full rounded-lg border border-white px-4 pt-6 pb-2 text-white bg-transparent 
                    focus:outline-none focus:border-white focus:ring-1 focus:ring-[#5B3E40] transition-all duration-300"
       />
       <label

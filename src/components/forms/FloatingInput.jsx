@@ -37,7 +37,7 @@ export default function FloatingInput({ label, name, type = "text" }) {
         onChange={(e) => setValue(e.target.value)}
         onBlur={handleBlur}
         placeholder=" "
-        className={`peer w-full border-gray-300 border px-4 pt-6 pb-2 text-white bg-transparent transition-all duration-300 
+        className={`peer w-full rounded-lg border-gray-300 border px-4 pt-6 pb-2 text-white bg-transparent transition-all duration-300 
           ${
             error
               ? "border-red-500 focus:border-red-500 focus:ring-red-500"
